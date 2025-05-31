@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-
 ### <div align="center">I’m learning to become a programmer.</div>  
   
 
@@ -34,9 +31,6 @@ Here are some ideas to get you started:
 
 
 ## My Skill Set  
-
-
-### Learning  
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
@@ -63,7 +57,7 @@ Here are some ideas to get you started:
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RonyPangaribuan&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RonyPangaribuan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonyPangaribuan&hide_border=true&layout=compact" align="left" />
 <br />
