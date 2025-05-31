@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ### <div align="center">I’m learning to become a programmer.</div>  
   
 
@@ -57,10 +56,7 @@ Here are some ideas to get you started:
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RonyPangaribuan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=RonyPangaribuan&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonyPangaribuan&hide_border=true&layout=compact" align="left" />
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
