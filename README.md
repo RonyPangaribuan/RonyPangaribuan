@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Rony Pangaribuan!</h1>
-<h3 align="center">Aspiring Programmer | Student at Del Institute of Technology</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+learning+new+things+%F0%9F%92%BB;Currently+exploring+C+and+Java+%F0%9F%92%A1" alt="Typing SVG" />
@@ -26,7 +25,7 @@
 
 ---
 
-## 🌐 Connect with Me
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://github.com/RonyPangaribuan" target="_blank">
