@@ -46,7 +46,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=RonyPangaribuan&count_private=true&theme=tokyonight" alt="streak stats" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=RonyPangaribuan&count_private=true&theme=tokyonight" alt="streak stats" width="60%" />
 
   <br/>
 
