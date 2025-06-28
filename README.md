@@ -40,10 +40,11 @@
 
 ### 📊 Github Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RonyPangaribuan&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonyPangaribuan&hide_border=true&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br/>
- <img src="https://streak-stats.demolab.com/?user=RonyPangaribuan&count_private=true&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RonyPangaribuan&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonyPangaribuan&hide_border=true&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=RonyPangaribuan&hide_border=true&theme=tokyonight" alt="GitHub Streak" width="70%" />
+</div>
