@@ -45,5 +45,5 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonyPangaribuan&hide_border=true&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RonyPangaribuan&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com/?user=RonyPangaribuan&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 </p>
