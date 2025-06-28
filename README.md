@@ -1,59 +1,50 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Rony Pangaribuan!</h1>
+<h3 align="center">Aspiring Programmer | Student at Del Institute of Technology</h3>
 
-<!--
-**RonyPangaribuan/RonyPangaribuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+learning+new+things+%F0%9F%92%BB;Currently+exploring+C+and+Java+%F0%9F%92%A1" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### <div align="center">I’m learning to become a programmer.</div>  
-  
+### 🚀 About Me
 
-- 🔭 I’m currently studying at Del Institute of Technology  
-  
+- 🎓 I’m currently studying at **Institut Teknologi Del**
+- 🌱 I’m currently learning **C** and **Java**
+- 💡 I’m passionate about problem solving and technology
+- 🏛️ My dream is to become a professional programmer
+- 🤝 I love collaborating and sharing knowledge
 
-- 🌱 I’m currently learning C and Java  
-  
+---
 
-- 🏛️ I want to become a programmer  
-  
+### 🛠️ My Skill Set
 
-<br/>  
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
+  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
+</p>
 
+---
 
-## My Skill Set  
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-</div>  
+## 🌐 Connect with Me
 
-<br/>  
+<p align="center">
+  <a href="https://github.com/RonyPangaribuan" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.kaggle.com/RonyPangaribuan" target="_blank">
+    <img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" style="margin-bottom: 5px;" />
+  </a>
+</p>
 
+---
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/RonyPangaribuan" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/RonyPangaribuan" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+### 📊 Github Stats
 
-<br/>  
-
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=RonyPangaribuan&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonyPangaribuan&hide_border=true&layout=compact" align="left" />
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RonyPangaribuan&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonyPangaribuan&hide_border=true&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RonyPangaribuan&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+</p>
