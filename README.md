@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Rony Pangaribuan!</h1>
+<h1 align="center">Hi there 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+learning+new+things+%F0%9F%92%BB;Currently+exploring+C+and+Java+%F0%9F%92%A1" alt="Typing SVG" />
@@ -45,5 +45,5 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonyPangaribuan&hide_border=true&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/>
- <img src="https://streak-stats.demolab.com/?user=RonyPangaribuan&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com/?user=RonyPangaribuan&count_private=true&theme=tokyonight" alt="GitHub Streak" />
 </p>
