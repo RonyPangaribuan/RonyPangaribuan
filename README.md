@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+learning+new+things+%F0%9F%92%BB;Currently+exploring+C+Java+and+Phyton+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+like+learning+new+things+%F0%9F%92%BB "alt="Typing SVG" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 - 🎓 I’m currently studying at **Institut Teknologi Del**
-- 🌱 I’m currently learning **C** , **Java** and **Phyton**
+- 🌱 I’m currently learning **C** , **Java** and **Python**
 
 - 🏛️ My dream is to become a **Professional Programmer**
 ---
