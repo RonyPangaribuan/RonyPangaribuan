@@ -11,7 +11,7 @@
 - 🎓 I’m currently studying at **Institut Teknologi Del**
 - 🌱 I’m currently learning **C** , **Java** and **Python**
 
-- 🏛️ My dream is to become a **Professional Programmer**
+- 🏛️ My dream is to become a **Programmer**
 ---
 
 ### 🛠️ My Skill Set
